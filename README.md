@@ -7,7 +7,7 @@ Primeiro projeto com Angular - exercício iniciante
 
 ## Avisos :
 - Trata-se de um projeto básico e iniciante;
-- Novas ideis e opiniôes são sempre bem vindas para melhorar o código;
+- Novas ideias e opiniôes são sempre bem vindas para melhorar o código;
 - Sintan-se a vontade para compartilhar conhecimento;
 - Curso ministrado pela platarforma Dio; 
 
