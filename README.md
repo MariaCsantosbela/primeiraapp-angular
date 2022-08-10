@@ -1,7 +1,7 @@
-# primeiraapp-angular
+# Primeiraapp-angular
 Primeiro projeto com Angular - exercício iniciante  
 ## Olá, bem vindos ao meu primeiro projeto com Angular.
-### neste exercício básico estou colocando em prática meus conhecimentos seguindo as bases do curso de Introdução ao Angular.
+### Neste exercício básico estou colocando em prática meus conhecimentos seguindo as bases do curso de Introdução ao Angular.
 
 
 
@@ -9,7 +9,7 @@ Primeiro projeto com Angular - exercício iniciante
 - Trata-se de um projeto básico e iniciante;
 - Novas ideis e opiniôes são sempre bem vindas para melhorar o código;
 - Sintan-se a vontade para compartilhar conhecimento;
-- Curso ministrado pela platarforma Dio 
+- Curso ministrado pela platarforma Dio; 
 
 ## Links Úteis:
 https://www.dio.me
